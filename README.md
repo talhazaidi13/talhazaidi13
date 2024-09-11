@@ -18,7 +18,7 @@
 - 💬 Ask me about **Reinforcement learning, AI, Generative AI**.
   
 - 📫 How to reach me: **tzaidi@ksu.edu**
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
