@@ -9,12 +9,12 @@
 </p>
 
 <div style="text-align: left;">
-  - 🔭 I’m currently working on <strong>Reinforcement Learning and Computer Vision</strong> <br><br>
-  - 🌱 I’m currently learning <strong>Generative AI and Diffusion Models</strong> <br><br>
-  - 👯 I’m looking to collaborate on <strong>Integration of Generative AI with RL. Also, I am looking to collaborate on Vision Language Models</strong>. <br><br>
-  - 🤔 I’m looking for help with <strong>Implementing Diffusion Models to reduce probability distributional shifts</strong>. <br><br>
-  - 💬 Ask me about <strong>Reinforcement Learning, AI, Generative AI</strong>. <br><br>
-  - 👨‍💻 All of my projects are available at <a href="https://talhazaidi13.github.io" target="_blank"><strong>My Website</strong></a> <br><br>
+  - 🔭 I’m currently working on <strong>Reinforcement Learning and Computer Vision</strong> <br>
+  - 🌱 I’m currently learning <strong>Generative AI and Diffusion Models</strong> <br>
+  - 👯 I’m looking to collaborate on <strong>Integration of Generative AI with RL. Also, I am looking to collaborate on Vision Language Models</strong>. <br>
+  - 🤔 I’m looking for help with <strong>Implementing Diffusion Models to reduce probability distributional shifts</strong>. <br>
+  - 💬 Ask me about <strong>Reinforcement Learning, AI, Generative AI</strong>. <br>
+  - 👨‍💻 All of my projects are available at <a href="https://talhazaidi13.github.io" target="_blank"><strong>My Website</strong></a> <br>
   - 📫 How to reach me: <strong>tzaidi@ksu.edu</strong>
 </div>
 
