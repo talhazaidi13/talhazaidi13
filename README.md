@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhazaidi13&label=Profile%20views&color=0e75b6&style=flat" alt="talhazaidi13" /> </p>
 
+<div style="text-align: left;">
 - 🔭 I’m currently working on **Reinforcement Learning and Computer Vision**
   
 - 🌱 I’m currently learning **Generative AI and Diffusion Models**
