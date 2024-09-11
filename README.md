@@ -1,19 +1,26 @@
-## Hi I am Talha 👋
+<h1 align="center"> Hi I am Talha 👋 </h1>
 
-**A Passionate AI researcher and a Ph.D candidate at Kansas State University**
+<h3 align="center" A Passionate AI researcher and a Ph.D candidate at Kansas State University.</h3>
 
-- 🔭 I’m currently working on Reinforcement Learning and Computer Vision 
-- 🌱 I’m currently learning Generative AI and Diffusion Models
-- 👯 I’m looking to collaborate on Intergration of Generative AI with RL. Also I am looking to collaborate on Vision Language Models. 
-- 🤔 I’m looking for help with Implementing Diffusion Models to reduce probability distributional shifts.
-- 💬 Ask me about Reinforcement learning, AI, Generative AI.
-- 📫 How to reach me: tzaidi@ksu.edu
+- 🔭 I’m currently working on **Reinforcement Learning and Computer Vision**
+  
+- 🌱 I’m currently learning **Generative AI and Diffusion Models**
+  
+- 👯 I’m looking to collaborate on **Intergration of Generative AI with RL. Also I am looking to collaborate on Vision Language Models**.
+  
+- 🤔 I’m looking for help with **Implementing Diffusion Models to reduce probability distributional shifts**.
+  
+- 💬 Ask me about **Reinforcement learning, AI, Generative AI**.
+  
+- 📫 How to reach me: **tzaidi@ksu.edu**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tzaidi13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tzaidi13/" height="30" width="40" /></a>
-<a href="https://talhazaidi13.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@khanh9474" height="30" width="40" /></a>
+<a href="https://talhazaidi13.github.io/" target="blank">
+  <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
