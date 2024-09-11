@@ -2,6 +2,10 @@
 
 <h3 align="center" A Passionate AI researcher and a Ph.D candidate at Kansas State University.</h3>
 
+<img align="right" alt="Coding" width="300" src="images/UI Developer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatkhan8660-maker&label=Profile%20views&color=0e75b6&style=flat" alt="hayatkhan8660-maker" /> </p>
+
 - 🔭 I’m currently working on **Reinforcement Learning and Computer Vision**
   
 - 🌱 I’m currently learning **Generative AI and Diffusion Models**
