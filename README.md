@@ -1,5 +1,5 @@
-                      ## Hi I am Talha 👋
----------------------------------------------------------------------------
+## Hi I am Talha 👋
+
 **A Passionate AI researcher and a Ph.D candidate at Kansas State University**
 
 - 🔭 I’m currently working on Reinforcement Learning and Computer Vision 
