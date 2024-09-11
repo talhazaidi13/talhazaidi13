@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="images/UI Developer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hayatkhan8660-maker&label=Profile%20views&color=0e75b6&style=flat" alt="hayatkhan8660-maker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talhazaidi13&label=Profile%20views&color=0e75b6&style=flat" alt="talhazaidi13" /> </p>
 
 - 🔭 I’m currently working on **Reinforcement Learning and Computer Vision**
   
