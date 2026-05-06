@@ -19,12 +19,19 @@
 </div>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/tzaidi13/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+    />
   </a>
   <a href="https://talhazaidi13.github.io/" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/internet.png" alt="Website" height="30" width="40" />
+    <img 
+      src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" 
+      alt="Website" 
+    />
   </a>
 </p>
 
@@ -42,8 +49,32 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhazaidi13&show_icons=true&locale=en&layout=compact" alt="talhazaidi13" /></p>
+<h3 align="center">GitHub Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhazaidi13&show_icons=true&locale=en" alt="talhazaidi13" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhazaidi13&" alt="talhazaidi13" /></p>
+<table>
+  <tr>
+    <td>
+      <img 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=talhazaidi13&show_icons=true&locale=en&layout=compact" 
+        alt="Top Languages" 
+      />
+    </td>
+    <td>
+      <img 
+        height="180em" 
+        src="https://github-readme-stats.vercel.app/api?username=talhazaidi13&show_icons=true&locale=en" 
+        alt="GitHub Stats" 
+      />
+    </td>
+  </tr>
+</table>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=talhazaidi13" 
+  alt="GitHub Streak" 
+/>
+
+</div>
