@@ -9,10 +9,9 @@
 </p>
 
 <div style="text-align: left;">
-  - 🔭 I’m currently working on <strong>Reinforcement Learning and Computer Vision</strong> <br>
+  - 🔭 I’m currently working on <strong>Reinforcement Learning and Vision Language Action (VLA) models.</strong> <br>
   - 🌱 I’m currently learning <strong>Generative AI and Diffusion Models</strong> <br>
-  - 👯 I’m looking to collaborate on <strong>Integration of Generative AI with RL. Also, I am looking to collaborate on Vision Language Models</strong>. <br>
-  - 🤔 I’m looking for help with <strong>Implementing Diffusion Models to reduce probability distributional shifts</strong>. <br>
+  - 👯 I am looking to collaborate on Vision Language Action Models</strong>. <br>
   - 💬 Ask me about <strong>Reinforcement Learning, AI, Generative AI</strong>. <br>
   - 👨‍💻 All of my projects are available at <a href="https://talhazaidi13.github.io" target="_blank"><strong>My Website</strong></a> <br>
   - 📫 How to reach me: <strong>tzaidi@ksu.edu</strong>
@@ -52,25 +51,19 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=talhazaidi13&show_icons=true&locale=en&layout=compact" 
-        alt="Top Languages" 
-      />
-    </td>
-    <td>
-      <img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api?username=talhazaidi13&show_icons=true&locale=en" 
-        alt="GitHub Stats" 
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img 
+    height="180em" 
+    style="margin-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=talhazaidi13&show_icons=true&locale=en&layout=compact" 
+    alt="Top Languages" 
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=talhazaidi13&show_icons=true&locale=en" 
+    alt="GitHub Stats" 
+  />
+</div>
 
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=talhazaidi13" 
