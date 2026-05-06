@@ -48,10 +48,10 @@
 
 
 
-<!-- <h3 align="center">GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-<div align="center">
+<!-- <div align="center">
   <img 
     height="180em" 
     style="margin-right: 10px;" 
@@ -63,17 +63,17 @@
     src="https://github-readme-stats.vercel.app/api?username=talhazaidi13&show_icons=true&locale=en" 
     alt="GitHub Stats" 
   />
-</div>
+</div> -->
 
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=talhazaidi13" 
   alt="GitHub Streak" 
 />
 
-</div> -->
+</div>
 
 
-<h3 align="center">GitHub Analytics</h3>
+<!-- <h3 align="center">GitHub Analytics</h3>
 
 <div align="center">
 
@@ -114,5 +114,5 @@
     alt="Productive Time" 
   />
 
-</div>
+</div> -->
 
