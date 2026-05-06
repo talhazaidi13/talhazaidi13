@@ -45,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=sklearn", src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg",  src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />
   <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn" /> -->
-</p> -->
+
 
 
 <h3 align="center">GitHub Stats</h3>
