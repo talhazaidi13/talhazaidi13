@@ -48,7 +48,7 @@
 
 
 
-<h3 align="center">GitHub Stats</h3>
+<!-- <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 <div align="center">
@@ -69,6 +69,50 @@
   src="https://github-readme-streak-stats.herokuapp.com/?user=talhazaidi13" 
   alt="GitHub Streak" 
 />
+
+</div> -->
+
+
+<h3 align="center">GitHub Analytics</h3>
+
+<div align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talhazaidi13&theme=tokyonight" 
+    alt="Talha's GitHub Profile Summary" 
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talhazaidi13&theme=tokyonight" 
+    alt="Top Languages by Repo" 
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=talhazaidi13&theme=tokyonight" 
+    alt="Top Languages by Commit" 
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=talhazaidi13&theme=tokyonight" 
+    alt="GitHub Stats" 
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=talhazaidi13&theme=tokyonight&utcOffset=-5" 
+    alt="Productive Time" 
+  />
 
 </div>
 
