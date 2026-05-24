@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I am Talha 👋 </h1>
 
-<h3 align="center">A Passionate AI researcher and a Ph.D. candidate at Kansas State University.</h3>
+<h3 align="center">A Passionate AI Research Scientist at Kansas State University.</h3>
 
 <img align="right" alt="Coding" width="300" src="images/UI Developer.gif">
 
