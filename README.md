@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I am Talha 👋 </h1>
 
-<h3 align="center">A Passionate AI and Robotics Researcher.</h3>
+<h3 align="center">A Passionate AI and Robotics Researcher</h3>
 
 <img align="right" alt="Coding" width="300" src="images/UI Developer.gif">
 
