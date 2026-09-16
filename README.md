@@ -9,12 +9,10 @@
 </p>
 
 <div style="text-align: left;">
-  - 🔭 I’m currently working on <strong>Reinforcement Learning and Vision Language Action (VLA) models.</strong> <br>
-  - 🌱 I’m currently learning <strong>Generative AI and Diffusion Models</strong> <br>
-  - 👯 I am looking to collaborate on Vision Language Action Models</strong>. <br>
-  - 💬 Ask me about <strong>Reinforcement Learning, AI, Generative AI</strong>. <br>
+  - 🔭 I’m currently working on <strong>Robotics, Reinforcement Learning and Vision Language Action (VLA) models.</strong> <br>
+  - 💬 Ask me about <strong>Reinforcement Learning, Robotics, AI, Generative AI</strong>. <br>
   - 👨‍💻 All of my projects are available at <a href="https://talhazaidi13.github.io" target="_blank"><strong>My Website</strong></a> <br>
-  - 📫 How to reach me: <strong>tzaidi@ksu.edu</strong>
+  - 📫 How to reach me: <strong>talhazaidi1313@yahoo.com</strong>
 </div>
 
 <h3 align="left">Connect with me:</h3>
